@@ -23,5 +23,4 @@ public class MipartiCostume {
     private String imgPath;
     @Column(name = "ean")
     private String size;
-
 }
