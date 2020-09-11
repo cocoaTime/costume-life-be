@@ -15,6 +15,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import javax.sql.DataSource;
 import java.util.HashMap;
 import org.springframework.core.env.Environment;
+
 @Configuration
 @PropertySource({"classpath:application.properties"})
 @EnableJpaRepositories(

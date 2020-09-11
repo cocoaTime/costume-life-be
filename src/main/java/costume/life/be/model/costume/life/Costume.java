@@ -9,8 +9,9 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
+
 @Entity
-@Table(name = "costumes2")
+@Table(name = "costumes3")
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
